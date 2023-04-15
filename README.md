@@ -9,7 +9,7 @@ Github UserName - IT21268830
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT21268830&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
-##Skills
+## Skills
 <br>
 
 <div style="display: inline_block"><br>
