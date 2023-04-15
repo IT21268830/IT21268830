@@ -10,4 +10,4 @@ Github UserName - IT21268830
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21268830&show_icons=true&theme=highcontrast&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21268830&show_icons=true&theme=highcontrast)
