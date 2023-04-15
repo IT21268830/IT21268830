@@ -7,7 +7,7 @@ Github UserName - IT21268830
 <div>
   <a href="https://github.com/IT21268830">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT21268830&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=issues"/>
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&theme=dracula"/>
 </div>
 
 
