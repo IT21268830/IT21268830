@@ -13,3 +13,5 @@ Github UserName - IT21268830
 ![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21268830&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21268830)]
+
+![Snake animation](https://github.com/IT21268830/IT21268830/blob/output/github-contribution-grid-snake.svg)
