@@ -34,7 +34,6 @@ Github UserName - IT21268830
  </br>
 </br>
  
-  ![Snake animation](https://github.com/IT21268830/IT21268830/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
