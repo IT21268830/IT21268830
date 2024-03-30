@@ -1,6 +1,5 @@
 Name : Chandrasena H.M.K.G.J.K.
 Registration - IT21268830
-Github UserName - IT21268830
 
 <h1 align="center">Hi 👋, I'm Janith Kaushalya</h1>
 <br>
