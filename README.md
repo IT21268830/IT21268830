@@ -1,4 +1,4 @@
-Name : Chandrasena H.M.K.G.J.K.
+Name : Chandrasena H.M.K.G.J.K.<br/>
 Registration - IT21268830
 
 <h1 align="center">Hi 👋, I'm Janith Kaushalya</h1>
