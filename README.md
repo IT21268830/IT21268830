@@ -24,7 +24,7 @@ Registration - IT21268830<br>
 </div>
   </br>
 
-## Contact 
+## Contact Me:
 <div> 
   <a href="https://www.linkedin.com/in/janith-kaushalya-933917216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/j_kaushalya_?t=qUwRORrYvyU7vvTz8JGMAA&s=09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -33,5 +33,3 @@ Registration - IT21268830<br>
  </br>
 </br>
 </div>
-
-## Portfolio
