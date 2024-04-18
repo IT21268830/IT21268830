@@ -1,7 +1,7 @@
 Name : Chandrasena H.M.K.G.J.K.<br/>
 Registration - IT21268830<br>
 
-<h2 align="center">Hi 👋, I'm Janith Kaushalya</h2>
+<h1 align="center">Hi 👋, I'm Janith Kaushalya</h1>
 <br>
 <div>
   <a href="https://github.com/IT21268830">
