@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janith Kaushalya Chandrasena</h1>
+<h1 align="center">Hi 👋, I'm Janith Kaushalya</h1>
 <br>
 <div>
   <a href="https://github.com/IT21268830">
