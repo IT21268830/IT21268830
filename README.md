@@ -6,7 +6,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=it21268830&show_icons=true&locale=en&theme=highcontrast&count_private=true&" alt="it21268830" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21268830&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="it21268830" />
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
     
 ## Languages and Tools:
