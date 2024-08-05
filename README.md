@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/IT21268830">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=IT21268830&show_icons=true&locale=en&theme=highcontrast&count_private=true&count_public=true" alt="it21268830" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21268830&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="it21268830" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21268830&show_icons=true&locale=en&layout=compact&count_private=true&theme=highcontrast" alt="it21268830" />
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
