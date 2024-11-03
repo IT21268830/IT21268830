@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janith Kaushalya</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A passionate software developer.</h3>
 <br>
 <div>
   <a href="https://github.com/IT21268830">
